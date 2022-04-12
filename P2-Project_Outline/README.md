@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An app that connects petowners and veterinarians so that all pertinent information for the pet is shared and understood. 
+
 ### Features
-Include Features here
+Search
+Login 
+Update
+Delete
+Edit
+
 ### Technologies
-Include Technologies here
+ThymeLeaf with HTML and CSS. Java with Spring Boot. MySQL database. 
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to better use ThmyeLeaf.
+Encryption. 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/kBvw6pI9/pet-tracker
